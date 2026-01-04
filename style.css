@@ -1,0 +1,19 @@
+body{
+  background:#020617;
+  color:white;
+  font-family:Arial;
+  height:100vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+.box{
+  background:#111827;
+  padding:24px;
+  border-radius:12px;
+  text-align:center;
+}
+button{
+  margin:6px;
+  padding:8px 16px;
+}
